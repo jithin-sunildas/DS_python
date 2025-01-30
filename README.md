@@ -1,8 +1,8 @@
-# Employee Salary Analysis
+# Employee Salary Analysis🍀
 
 This project analyzes the relationship between employee age, weight, and salary. The goal is to explore the distribution of salaries across different age and weight groups. Various visualizations and statistical insights are presented to help understand the patterns and trends in employee compensation.
 
-## Dataset
+## Dataset💻
 
 The dataset contains the following columns:
 
@@ -12,17 +12,17 @@ The dataset contains the following columns:
 
 The data is used to categorize employees into different age and weight groups and analyze the average salary for each group.
 
-## Key Analysis
+## Key Analysis📝
 
 - **Age Group Analysis**: Categorizes employees into predefined age groups, and calculates the number of employees in each group.
 - **Weight Group Analysis**: Categorizes employees into predefined weight groups, and calculates the average salary for each weight group.
 
-## Key Visualizations
+## Key Visualizations🤖
 
 1. **Age vs. Salary Distribution**: A bar plot showing the number of employees in each age group and their corresponding average salary.
 2. **Weight vs. Salary Distribution**: A bar plot showing the average salary for each weight group.
 
-## Requirements
+## Requirements👾
 
 To run this analysis, you will need the following libraries:
 
@@ -37,7 +37,7 @@ You can install the required libraries using:
 pip install pandas numpy matplotlib seaborn
 ```
 
-An example code:
+An example code🚀:
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
