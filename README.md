@@ -35,9 +35,10 @@ You can install the required libraries using:
 
 ```bash
 pip install pandas numpy matplotlib seaborn
+```
 
-An example code
-
+An example code:
+```
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
