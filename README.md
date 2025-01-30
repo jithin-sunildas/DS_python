@@ -37,6 +37,9 @@ You can install the required libraries using:
 pip install pandas numpy matplotlib seaborn
 ```
 
+Anaconda framework is recommended to use jupyter notebook. It's an amazing framework to develop python scripts for AI/ML/Data Science, etc.
+https://www.anaconda.com/download
+
 An example code🚀:
 ```
 import pandas as pd
